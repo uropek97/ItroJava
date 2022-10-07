@@ -1,12 +1,21 @@
-import java.util.Calendar;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
+
+import java.io.File;
+import java.util.*;
 
 
 public class lesson1 {
+    /*
     public static void main(String[] args) {
+        Object o = 1;
+        System.out.println();
+        File dir = new File("D:\\JAVA\\семинары");
 
+        //if(!dir.isDirectory())
+          //  return;
+        for(File item : dir.listFiles())
+            System.out.println(item.getName());
+
+        /*
         Scanner iScanner = new Scanner(System.in);
 
         System.out.println("Задание 1: ");
@@ -37,7 +46,9 @@ public class lesson1 {
         System.out.println("Результат: ");
         var parts = streq.split(" ");
         System.out.println(task5(parts[0], parts[2], parts[4], '?'));
-    }
+         */
+    //}
+
 
     public static String task1(String name) {
 
