@@ -1,0 +1,9 @@
+Directory: .git
+File: .gitignore
+Directory: .idea
+File: lesson1.java
+File: lesson2.java
+File: log.txt
+Directory: out
+File: семинары.iml
+File: содержимое папки.txt
