@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class lesson3 {
     public static void main(String[] args) {
-
+        /*
         var AL = getList(15);
         System.out.println(AL);
 
@@ -24,7 +24,7 @@ public class lesson3 {
         mergeSort(arr);
 
         printArr(arr);
-
+         */
     }
 
     public static ArrayList<Integer> getList(int size) {
