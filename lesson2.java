@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.util.logging.*;
 
 public  class lesson2{
+    /*
     public static void main(String[] args) throws IOException {
 
         File dir = new File("D:\\JAVA\\семинары");
@@ -36,7 +37,7 @@ public  class lesson2{
         System.out.println(formWHERE(params));
 
     }
-
+         */
     public  static String[] getFileDirs(File dir){
         File[] files = dir.listFiles();
         String[] filesArr = new String[files.length];
@@ -67,7 +68,7 @@ public  class lesson2{
         if (index == - 1)
             return null;
         else
-            return nameFile.substring(index);
+            return nameFile.substring(index+1);
     }
 
     public  static void PrintExtensions(File dir){
