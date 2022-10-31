@@ -3,7 +3,7 @@ import java.util.LinkedList;
 
 public class lesson4 {
     public static void main(String[] args) {
-
+        /*
         LinkedList<Integer> linkedList = new LinkedList<>();
         for (int i = 1; i < 11; i++)
             linkedList.add(i);
@@ -34,6 +34,7 @@ public class lesson4 {
         System.out.println("Сумма элементов списка");
         System.out.println(linkedList);
         System.out.println(sumItems(linkedList));
+         */
     }
 
     public static LinkedList<Integer> reverseLL(LinkedList<Integer> linkedList){
