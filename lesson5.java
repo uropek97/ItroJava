@@ -1,6 +1,6 @@
 public class lesson5 {
     public static void main(String[] args) {
-
+/*
         var a = new PhoneBook();
 
         a.addContact("777", "Петя");
@@ -43,5 +43,7 @@ public class lesson5 {
 
         System.out.println(PB_V2.getCont("Костя"));
         System.out.println(PB_V2.getCont("Анна"));
+
+ */
     }
 }
